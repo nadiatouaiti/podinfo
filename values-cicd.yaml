@@ -6,3 +6,4 @@ ui:
   color: "#7c3aed" 
 service:
   type: NodePort
+  metricsPort: 9797
