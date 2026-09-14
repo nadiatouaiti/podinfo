@@ -2,3 +2,5 @@ image:
   repository: ghcr.io/nadiatouaiti/podinfo
   tag: latest 
   pullPolicy: Always
+ ui:
+  color: "#7c3aed" 
