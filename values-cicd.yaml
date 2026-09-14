@@ -4,3 +4,5 @@ image:
   pullPolicy: Always
 ui:
   color: "#7c3aed" 
+service:
+  type: NodePort
