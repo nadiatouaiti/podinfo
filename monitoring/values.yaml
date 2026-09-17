@@ -1,0 +1,11 @@
+alertmanager:
+  enabled: false
+
+grafana:
+  adminPassword: "Admin2026!"
+  service:
+    type: NodePort
+
+prometheus:
+  service:
+    type: NodePort
